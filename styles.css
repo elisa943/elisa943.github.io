@@ -1,0 +1,99 @@
+/* HEADER */
+
+.body {
+    margin: 0; /* pas de marge*/
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(#e66465, #9198e5);
+    }
+
+.main-header {
+    padding: 10px 0;
+    text-align: center;
+    }
+
+.main-nav { /* éléments HOME STORE ABOUT*/
+    text-align: center; /* centré*/
+    font-size: 1.5em; /* 50% plus grand*/
+    font-weight: lighter;
+    }
+
+.main-nav li { /* textes HOME PROJECTS ABOUT */
+    padding: 0 5%; /* HOME PROJECTS ABOUT espacées */
+    color: black;
+    display: inline-block; /* HOME PROJECTS et ABOUT alignés */
+    }
+
+.home-projects-about {
+    margin: 0;
+    }
+
+.home-projects-about strong {
+    color: black;
+    }
+
+.welcome img { /* Welcome title */
+    margin: 0;
+    font-weight: bolder;
+    padding: 10px 0;
+    font-size: 5em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* MAIN */
+.website-presentation {
+    text-align: center;
+}
+
+.current-project {
+    max-width: 800px;
+    margin: 20px auto;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+
+
+/* FOOTER */ 
+.footer {
+    display : flex;
+    justify-content: center; /* Centering the content horizontally */
+    align-items: center;
+    text-align: center;
+    padding: 20px 0; 
+    }
+
+.connect-text img {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    }
+
+.footer-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allow flex items to wrap to the next line if needed */
+}
+
+.footer-nav li {
+    padding: 0 10px; /* Adjusted padding for better spacing */
+    display: block; /* Display each item as a block element */
+    text-align: center; /* Center the text within each block */
+    margin-bottom: 10px; /* Add a bottom margin to create space between items */
+    font-family: 'Courier New', monospace;
+}
+
+.footer-nav img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+
+
+.links {
+    margin-top: 10px;
+}
