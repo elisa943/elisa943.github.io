@@ -3,7 +3,7 @@
 .body {
     margin: 0; /* pas de marge*/
     font-family: 'Courier New', Courier, monospace;
-    background: linear-gradient(#e66465, #9198e5);
+    background: linear-gradient(#397ce9, #9198e5);
     }
 
 .main-header {
@@ -11,7 +11,7 @@
     text-align: center;
     }
 
-.main-nav { /* éléments HOME STORE ABOUT*/
+.main-nav {
     text-align: center; /* centré*/
     font-size: 1.5em; /* 50% plus grand*/
     font-weight: lighter;
