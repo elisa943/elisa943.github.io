@@ -3,7 +3,7 @@
 .body {
     margin: 0; /* pas de marge*/
     font-family: 'Courier New', Courier, monospace;
-    background: white;
+    background: rgb(254, 254, 226);
     }
 
 .main-header {
