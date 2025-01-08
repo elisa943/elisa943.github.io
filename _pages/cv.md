@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Telecommunications, Bordeaux Graduate School of Engineering, 2026 (Expected)
+* B.S. in Engineering Science, Lycée Saint-Louis (2021-2023) : Two-year intensive undergraduate Maths, Physics, and IT courses, preparing nationwide competitive exams for French Grandes Écoles
+* High School Diploma in Mathematics & Physics With Distinctions, Lycée Paul Lapie, 2021
 
-Work experience
+Experience & Charity Work
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Junior Consultant
+  * Directorate General for Civil Aviation
+  * Familiarized with project management vocabulary and methodology
+  * Organized and led 6 workshops to gather detailed information from stakeholders
+  * Collaborated with cross-functional teams to guarantee accuracy in documentation.
+  * Created 2 sets of functional and technical specifications.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter & Spring 2024 : Academic Tutor
+  * Sopra Steria
+  * Tutored and mentored a disabled high school student from Louis Victor High School.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Winter 2020: Project Officer
+  * Initiated a school-wide toy drive for Christmas holidays.
+  * Collaborated with French NGO Les Restos du Cœur, Paul Lapie High School & Youth Center Écollectif Briand.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Technical
+  * Bash
+  * C (SDL)
+  * Python (Pygame, Matplotlib, Numpy)
+  * MATLAB
+  * HTML
+  * CSS
+  * PHP
+  * OCaml
+  * SQL
+  * LaTex
+* Soft skills
+  * Curious
+  * Rigorous
+  * Organized
+  * Autonomous
+* Languages 
+  * French (Native)
+  * English (C1-C2)
+  * Spanish (A2)
