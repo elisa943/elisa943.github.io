@@ -54,3 +54,12 @@ Skills
   * French (Native)
   * English (C1-C2)
   * Spanish (A2)
+
+Certifications 
+======
+* Languages
+  * TOEIC (2024) : 990/990 
+  * IELTS (2024) : 8/9
+  * Cambridge English Certificate (2021) : C1
+* Computer Science 
+  * CS50's Introduction to Artificial Intelligence w/ Python (2024)
