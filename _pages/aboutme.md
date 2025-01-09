@@ -1,10 +1,9 @@
 ---
 permalink: /aboutme/
-title: "" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
-  - /aboutme/
-  - /aboutme.html
+  - /aboutme
 ---
 
 As an engineering student, I've had the opportunity to work on many interesting & challenging projects. 
