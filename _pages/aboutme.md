@@ -28,7 +28,7 @@ Furthermore, I'm also fond of humanities as well. When I'm not working, I try to
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/white_nights.jpg" alt="Book Cover" style="width: 150px; height: auto; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/dorian_gray.jpg" alt="Book Cover" style="width: 150px; height: auto; margin-right: 20px; border-radius: 8px;">
   <div>
     <h3>The Picture of Dorian Gray by Wilde</h3>
     <p>
