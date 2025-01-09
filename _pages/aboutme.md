@@ -14,7 +14,8 @@ In 2020, I entered Lycée Saint-Louis in Paris, a top 3 school preparing nationw
 
 <!-- In 2023, I was accepted to Enseirb-Matmeca.  -->
 
-Furthermore, I'm also fond of humanities as well. When I'm not working, I try to read as much as I can. Here's my favorite one : 
+=====
+Furthermore, I'm also fond of humanities as well. When I'm not working, I try to read as much as I can. Here are my favorite ones : 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/white_nights.jpg" alt="Book Cover" style="width: 150px; height: auto; margin-right: 20px; border-radius: 8px;">
@@ -26,3 +27,12 @@ Furthermore, I'm also fond of humanities as well. When I'm not working, I try to
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/white_nights.jpg" alt="Book Cover" style="width: 150px; height: auto; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <h3>The Picture of Dorian Gray by Wilde</h3>
+    <p>
+      "Enthralled by his own exquisite portrait, Dorian Gray exchanges his soul for eternal youth and beauty. Influenced by his friend Lord Henry Wotton, he is drawn into a corrupt double life, indulging his desires in secret while remaining a gentleman in the eyes of polite society. Only his portrait bears the traces of his decadence."
+    </p>
+  </div>
+</div>
