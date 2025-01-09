@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+PDF versions : [English version](files/cv_en.pdf) | [French version](files/cv_fr.pdf) | [Harvard/Finance version](files/cv_finance.pdf)
+
+
 Education
 ======
 * M.S. in Telecommunications, Bordeaux Graduate School of Engineering, 2026 (Expected)
