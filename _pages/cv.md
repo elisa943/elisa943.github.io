@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF versions : [English version](files/cv_en.pdf) | [French version](files/cv_fr.pdf) | [Harvard/Finance version](files/cv_finance.pdf)
+PDF versions : [English version](/files/cv_en.pdf) / [French version](/files/cv_fr.pdf) / [Harvard/Finance version](/files/cv_finance.pdf)
 
 
 Education
