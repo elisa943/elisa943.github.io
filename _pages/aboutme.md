@@ -12,9 +12,10 @@ I started coding in 2019 when I was in high school, and immediately fell in love
 
 In 2020, I entered Lycée Saint-Louis in Paris, a top 3 school preparing nationwide competitive exams for French Grandes Écoles (also known as CPGE). These two years were intense and very demanding, but it made me an even better STEM student. It allowed me to sharply hone my technical skills and develop my scientific curiosity. I mostly coded in C and OCaml (a relatively unknown language useful for functional programming). Moreover, I learned in-depth theoretical knowledge about computer science, like formal languages, or automata theory. During these years, I coded an OCaml version of the game 2048, as well as an evacuation simulation of a building. 
 
-<!-- In 2023, I was accepted to Enseirb-Matmeca.  -->
+In 2023, I was accepted to Enseirb-Matmeca, a top 20 engineering school located near Bordeaux. I'm studying Telecommunications there, and I'm currently a second-year student. Since 2023, I've been learning more programming languages like PHP, MATLAB, or Java in classes or during my free time. I also had to take on many academic projects such as a Pacman game or a barcode reader.
 
-=====
+=======
+
 Furthermore, I'm also fond of humanities as well. When I'm not working, I try to read as much as I can. Here are my favorite ones : 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">

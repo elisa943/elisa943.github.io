@@ -42,6 +42,7 @@ Skills
   * C (SDL)
   * Python (Pygame, Matplotlib, Numpy)
   * MATLAB
+  * Java
   * HTML
   * CSS
   * PHP
