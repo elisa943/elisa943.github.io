@@ -2,6 +2,8 @@
 title: "2048"
 excerpt: "2048 game made in OCaml<br/><img src='/images/2048.png'>"
 collection: portfolio
+redirect_from: 
+    - /portfolio/2048
 ---
 
 During my two years in Lycée Saint-Louis, I worked on a 2048 game in OCaml. 
