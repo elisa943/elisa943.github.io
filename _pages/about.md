@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! 
 
-I'm Elisa Chien, currently a second-year engineering student @ Enseirb-Matmeca, Bordeaux Graduating School of Engineering. 
+I'm Elisa Chien, currently a final-year engineering student @ Enseirb-Matmeca, Bordeaux Graduating School of Engineering. 
 
 You can check out my [portfolio](https://elisa943.github.io/portfolio/) (currently working on it :1) and my [CV](https://elisa943.github.io/cv/). 
 

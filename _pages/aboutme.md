@@ -12,7 +12,9 @@ I started coding in 2019 when I was in high school, and immediately fell in love
 
 In 2020, I entered Lycée Saint-Louis in Paris, a top 3 school preparing nationwide competitive exams for French Grandes Écoles (also known as CPGE). These two years were intense and very demanding, but it made me an even better STEM student. It allowed me to sharply hone my technical skills and develop my scientific curiosity. I mostly coded in C and OCaml (a relatively unknown language useful for functional programming, but a favorite of mine!). Moreover, I learned in-depth theoretical knowledge about computer science, like formal languages, or automata theory. During these years, I coded an OCaml version of the game [2048](https://elisa943.github.io/portfolio/2048/), as well as an [evacuation simulation of a building](https://elisa943.github.io/portfolio/tipe). 
 
-In 2023, I was accepted to Enseirb-Matmeca, a top 20 engineering school located near Bordeaux. I'm studying Telecommunications there, and I'm currently a second-year student. Since 2023, I've been learning more programming languages like PHP, MATLAB, or Java in classes or during my free time. I also had to take on many academic projects such as a [chat service](https://github.com/EnseirbTelecom/re216-24-elisa-alban) or a [barcode reader](https://elisa943.github.io/portfolio/barcode). 
+In 2023, I was accepted to Enseirb-Matmeca, a top 20 engineering school located near Bordeaux. I'm studying Telecommunications there, and I'm currently a final-year student. Since 2023, I've been learning more programming languages like PHP, MATLAB, or Java in classes or during my free time. I also had to take on many academic projects such as a [barcode reader](https://elisa943.github.io/portfolio/barcode) for instance. 
+
+In September 2025, I went on to do an academic semester — an Erasmus — in Pavia, Italy. I followed data science courses there. During this semester, I learned technical skills, but above all I felt I grew as a person. I discovered a newfound love for traveling and photography there. I visited many places in North Italy (Portofino, Cinque Terre, Torino...) and discovered new cultures. 
 
 =======
 
@@ -28,7 +30,9 @@ Moreover, I communicate in English on a regular basis. As such, I'm collecting E
 
 =======
 
-Furthermore, I'm fond of humanities as well. When I'm not working, I try to read as much as I can. Here are my favorite ones : 
+Furthermore, I'm fond of humanities as well. 
+
+When I'm not working, I try to read as much as I can. Here are my favorite ones : 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/white_nights.jpg" alt="Book Cover" style="width: 150px; height: auto; margin-right: 20px; border-radius: 8px;">
@@ -49,3 +53,5 @@ Furthermore, I'm fond of humanities as well. When I'm not working, I try to read
     </p>
   </div>
 </div>
+
+Growing up near Paris, I had the chance to visit many museums. Thanks to this, I'm very fond of art, especially impressionism. 
